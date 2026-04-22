@@ -50,12 +50,5 @@ masked CSV file for download.
 -   templates/ -- HTML interface files
 -   input/output files -- CSV datasets
 
-## Contribution
-
-Contributions are welcome. Please feel free to submit a pull request.
-
-## License
-
-This project is for educational and professional portfolio purposes.
 
 If you like this project, please give it a star.
